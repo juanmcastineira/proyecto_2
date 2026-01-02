@@ -1,11 +1,11 @@
-Análisis Exploratorio de Ventas y Productos
-Evolución de ingresos mensuales (2022–2023)
+# Análisis Exploratorio de Ventas y Productos
+## Evolución de ingresos mensuales (2022–2023)
 
 ![Gráfico de Suscripciones](https://github.com/juanmcastineira/proyecto-3/blob/2eff8f8e60bb2a32e6efbff87b982a48dc196a85/images/ganancias%20por%20a%C3%B1o)
 
 Se analizó la variación de los ingresos mensuales durante los años 2022 y 2023 con el objetivo de identificar patrones estacionales y comportamientos atípicos.
 
-Hallazgos:
+### Hallazgos:
 
 Se observa una caída recurrente de ingresos en los meses de febrero y septiembre en ambos años.
 
@@ -13,47 +13,47 @@ En el mes de marzo se identifica un incremento significativo de las ventas, lo q
 
 En noviembre de 2023 se detecta una disminución relevante de ingresos en comparación con noviembre de 2022, lo que indica una anomalía interanual.
 
-Recomendaciones:
+### Recomendaciones:
 
 Analizar las posibles causas de las caídas en febrero y septiembre (factores climáticos, feriados, eventos externos o estacionalidad del consumo).
 
 Diseñar estrategias promocionales específicas para marzo y noviembre, con el objetivo de capitalizar los períodos de recuperación y mitigar caídas interanuales.
 
-Cantidad vendida vs. precio unitario por producto
+## Cantidad vendida vs. precio unitario por producto
 
 ![](https://github.com/juanmcastineira/proyecto-3/blob/2eff8f8e60bb2a32e6efbff87b982a48dc196a85/images/cantidad%20por%20precio)
 
 Se comparó la cantidad vendida de cada producto con su precio unitario, segmentando el análisis por categoría, para evaluar la relación entre precio y demanda.
 
-Postres:
+### Postres:
 
 Ice Cream y Chocolate Cake se posicionan como los productos más vendidos.
 
 Este comportamiento podría responder a una preferencia estable de los consumidores o a un efecto estacional, lo que amerita un análisis adicional.
 
-Bebidas:
+### Bebidas:
 
 El agua lidera en cantidad vendida, lo que sugiere una fuerte influencia del precio en la decisión de compra.
 
 Se recomienda revisar la estructura de costos y precios de otras bebidas para incentivar su consumo sin afectar el margen.
 
-Platos principales:
+### Platos principales:
 
 Los productos con precios intermedios concentran el mayor volumen de ventas.
 
 Los platos de mayor precio (Steak y Salmon) presentan menor demanda, lo que podría abordarse mediante ajustes de precio o mejoras en la percepción de valor (presentación, acompañamientos, combos).
 
-Acompañamientos (Side Dishes):
+### Acompañamientos (Side Dishes):
 
 Side Salad destaca por su alto volumen y bajo precio, reforzando la hipótesis de sensibilidad al precio en esta categoría.
 
-Entradas (Starters):
+### Entradas (Starters):
 
 Nachos muestran bajo volumen de ventas y un precio relativamente alto.
 
 Se sugiere evaluar una reducción de precio, una reformulación del producto o su reemplazo dentro del menú.
 
-Máximo de ventas mensuales por producto
+## Máximo de ventas mensuales por producto
 
 
 ![Gráfico de Suscripciones](https://github.com/juanmcastineira/proyecto-3/blob/26df31add36f09b30453821c57b1a4fd3a813217/images/ventas%20maximas%20en%20un%20mes..png)
@@ -61,13 +61,13 @@ Máximo de ventas mensuales por producto
 
 Se identificó el mes con mayor cantidad de ventas para cada producto con el objetivo de detectar patrones temporales.
 
-Hallazgos:
+### Hallazgos:
 
 Septiembre y octubre concentran varios picos de ventas unitarias.
 
 La mayoría de estos picos corresponden a productos de tipo postre, lo que sugiere una estacionalidad marcada en esta categoría durante ese período del año.
 
-Ingresos por producto y concentración de ventas (Análisis Pareto)
+## Ingresos por producto y concentración de ventas 
 
 ![Gráfico de Suscripciones](https://github.com/juanmcastineira/proyecto-3/blob/26df31add36f09b30453821c57b1a4fd3a813217/images/ventas%20por%20producto.png)
 
@@ -76,17 +76,17 @@ Ingresos por producto y concentración de ventas (Análisis Pareto)
 
 Se analizó la contribución de cada producto a los ingresos totales, aplicando un enfoque de tipo Pareto.
 
-Hallazgos:
+### Hallazgos:
 
 Aproximadamente el 60% de los ingresos proviene de solo 8 productos, principalmente pertenecientes a la categoría de platos principales.
 
 La distribución de la cantidad vendida es más homogénea, lo que indica que algunos productos tienen alto volumen pero bajo impacto en los ingresos.
 
-Implicancias y recomendaciones:
+### Implicancias y recomendaciones:
 
 Evaluar la elasticidad de la demanda de los productos que concentran la mayor parte de los ingresos.
 
-Analizar escenarios de pricing:
+### Analizar escenarios de pricing:
 
 Reducción de precios en platos principales para evaluar si el incremento de volumen compensa la baja del margen.
 
