@@ -1,7 +1,7 @@
 Análisis Exploratorio de Ventas y Productos
 Evolución de ingresos mensuales (2022–2023)
 
-[ACÁ VAN LAS IMÁGENES]
+![Gráfico de Suscripciones](https://github.com/juanmcastineira/proyecto-3/blob/2eff8f8e60bb2a32e6efbff87b982a48dc196a85/images/ganancias%20por%20a%C3%B1o)
 
 Se analizó la variación de los ingresos mensuales durante los años 2022 y 2023 con el objetivo de identificar patrones estacionales y comportamientos atípicos.
 
@@ -21,7 +21,7 @@ Diseñar estrategias promocionales específicas para marzo y noviembre, con el o
 
 Cantidad vendida vs. precio unitario por producto
 
-[ACÁ VAN LAS IMÁGENES]
+![](https://github.com/juanmcastineira/proyecto-3/blob/2eff8f8e60bb2a32e6efbff87b982a48dc196a85/images/cantidad%20por%20precio)
 
 Se comparó la cantidad vendida de cada producto con su precio unitario, segmentando el análisis por categoría, para evaluar la relación entre precio y demanda.
 
@@ -55,7 +55,9 @@ Se sugiere evaluar una reducción de precio, una reformulación del producto o s
 
 Máximo de ventas mensuales por producto
 
-[ACÁ VAN LAS IMÁGENES]
+
+![Gráfico de Suscripciones](https://github.com/juanmcastineira/proyecto-3/blob/26df31add36f09b30453821c57b1a4fd3a813217/images/ventas%20maximas%20en%20un%20mes..png)
+
 
 Se identificó el mes con mayor cantidad de ventas para cada producto con el objetivo de detectar patrones temporales.
 
@@ -67,7 +69,10 @@ La mayoría de estos picos corresponden a productos de tipo postre, lo que sugie
 
 Ingresos por producto y concentración de ventas (Análisis Pareto)
 
-[ACÁ VAN LAS IMÁGENES]
+![Gráfico de Suscripciones](https://github.com/juanmcastineira/proyecto-3/blob/26df31add36f09b30453821c57b1a4fd3a813217/images/ventas%20por%20producto.png)
+
+![Gráfico de Suscripciones](https://github.com/juanmcastineira/proyecto-3/blob/26df31add36f09b30453821c57b1a4fd3a813217/images/cantidad%20por%20productos.png)
+
 
 Se analizó la contribución de cada producto a los ingresos totales, aplicando un enfoque de tipo Pareto.
 
